@@ -2,7 +2,7 @@
 layout: post
 title:  "테스트용 포스트"
 date:   2015-05-12 14:30:01
-categories: test category
+categories: category1 category2
 ---
 
 이것은 테스트용 포스트입니다
