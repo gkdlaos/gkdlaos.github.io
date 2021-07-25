@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32e5c2cc-1c18-4cce-a599-dba5671d05fa" name="Default Changelist" comment="내용채움">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/what-we-do.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/what-we-do.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vZrDRplHMBQQGdWBREvbeB9jcA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_includes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gkdla\IdeaProjects\gkdlaos.github.io\_includes" />
+      <recent name="C:\Users\gkdla\IdeaProjects\gkdlaos.github.io\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gkdla\IdeaProjects\gkdlaos.github.io\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32e5c2cc-1c18-4cce-a599-dba5671d05fa" name="Default Changelist" comment="" />
+      <created>1626780332297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626780332297</updated>
+      <workItem from="1626780334040" duration="3803000" />
+      <workItem from="1627224700514" duration="1903000" />
+    </task>
+    <task id="LOCAL-00001" summary="new theme">
+      <created>1626780450197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626780450197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1626782455132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626782455132</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1626783221885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626783221885</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added favicon">
+      <created>1626783331179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626783331179</updated>
+    </task>
+    <task id="LOCAL-00005" summary="logo size cut">
+      <created>1626783869462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626783869462</updated>
+    </task>
+    <task id="LOCAL-00006" summary="font size corr">
+      <created>1626784131394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626784131394</updated>
+    </task>
+    <task id="LOCAL-00007" summary="내용채움">
+      <created>1627225561403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627225561403</updated>
+    </task>
+    <task id="LOCAL-00008" summary="내용채움">
+      <created>1627225635784</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627225635784</updated>
+    </task>
+    <task id="LOCAL-00009" summary="내용채움">
+      <created>1627225777812</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627225777812</updated>
+    </task>
+    <task id="LOCAL-00010" summary="내용채움">
+      <created>1627225865916</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627225865916</updated>
+    </task>
+    <task id="LOCAL-00011" summary="내용채움">
+      <created>1627225996534</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1627225996534</updated>
+    </task>
+    <task id="LOCAL-00012" summary="내용채움">
+      <created>1627226250799</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627226250799</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new theme" />
+    <MESSAGE value="test" />
+    <MESSAGE value="added favicon" />
+    <MESSAGE value="logo size cut" />
+    <MESSAGE value="font size corr" />
+    <MESSAGE value="내용채움" />
+    <option name="LAST_COMMIT_MESSAGE" value="내용채움" />
+  </component>
+</project>
