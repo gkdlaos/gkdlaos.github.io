@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="32e5c2cc-1c18-4cce-a599-dba5671d05fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/what-we-do.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/what-we-do.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626780332297</updated>
       <workItem from="1626780334040" duration="3803000" />
-      <workItem from="1627224700514" duration="2684000" />
+      <workItem from="1627224700514" duration="3311000" />
     </task>
     <task id="LOCAL-00001" summary="new theme">
       <created>1626780450197</created>
@@ -158,11 +161,28 @@
       <option name="project" value="LOCAL" />
       <updated>1627226740884</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="is-fullheight 삭제">
+      <created>1627227517150</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627227517150</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -182,6 +202,7 @@
     <MESSAGE value="logo size cut" />
     <MESSAGE value="font size corr" />
     <MESSAGE value="내용채움" />
-    <option name="LAST_COMMIT_MESSAGE" value="내용채움" />
+    <MESSAGE value="is-fullheight 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="is-fullheight 삭제" />
   </component>
 </project>
