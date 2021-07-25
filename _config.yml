@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Unhedged
 # Description of the Site
-description: Quantitative, proprietary trading group
+description: Explore the world with genuine idea and data
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -41,11 +41,15 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: Stringer
+author-name: Unhedged
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: We build automated trading systems fueled by data-driven quantitative analysis to achieve stable and sustainable investment returns. Our engineering teams do what humans do best – create algorithmic decision processes in order to achieve what no human trader ever could in today’s fast-changing, unbelievably complex financial world.
+author-about: We are a quantitative trading company constantly seeking Alpha. Our mission is to identify Alpha based on quantitative research and scientific reasoning. All of our investment process is fully automated, from data feeding to trade execution. We believe that the best way to find alphas is to explore the untapped paths with top-notch developers and researchers.
+who-we-are:
+  research: We build systematic strategies by applying modern statistical techniques to sophisticated large datasets to discover investment opportunities in financial markets. The models, based on cutting-edge mathematical modeling and statistical methods are tested by our rigorous framework to identify their validity, robustness and orthogonality.
+  database: Data plays a very fundamental part to ensure all the performances of quantitative trading, from the research to execution. Our obsession with data made us create a unique database system - which not only serves accurate data in prompt but gives a seamless environment for researchers to experiment and deploy.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
