@@ -20,26 +20,31 @@ layout: compress
     var scroll = this.scrollY;
     var item = document.getElementsByClassName('navbar-item');
     /* console.log(scroll); */
+    var navHeight = document.querySelector('#navbar-menu').offsetHeight;
+    var aboutHeight = document.querySelector('#about').offsetTop - navHeight
+    var whatWeDoHeight = document.querySelector('#what-we-do').offsetTop - navHeight
+    var contactHeight = document.querySelector('#contact').offsetTop - navHeight
 
-    if (scroll < document.querySelector('#about').offsetTop) {
+
+    if (scroll < aboutHeight) {
       item[1].classList.add('is-active');
       item[2].classList.remove('is-active');
       item[3].classList.remove('is-active');
       item[4].classList.remove('is-active');
     }
-    if (scroll > document.querySelector('#about').offsetTop && scroll < document.querySelector('#what-we-do').offsetTop) {
+    if (scroll > aboutHeight && scroll < whatWeDoHeight) {
       item[1].classList.remove('is-active');
       item[2].classList.add('is-active');
       item[3].classList.remove('is-active');
       item[4].classList.remove('is-active');
     }
-    if (scroll > document.querySelector('#what-we-do').offsetTop && scroll < document.querySelector('#contact').offsetTop) {
+    if (scroll > whatWeDoHeight && scroll < contactHeight) {
       item[1].classList.remove('is-active');
       item[2].classList.remove('is-active');
       item[3].classList.add('is-active');
       item[4].classList.remove('is-active');
     }
-    if (scroll > document.querySelector('#contact').offsetTop) {
+    if (scroll > contactHeight) {
       item[1].classList.remove('is-active');
       item[2].classList.remove('is-active');
       item[3].classList.remove('is-active');
