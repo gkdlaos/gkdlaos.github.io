@@ -20,25 +20,26 @@ layout: compress
     var scroll = this.scrollY;
     var item = document.getElementsByClassName('navbar-item');
     /* console.log(scroll); */
-    if (scroll < 565) {
+
+    if (scroll < document.querySelector('#about').offsetTop) {
       item[1].classList.add('is-active');
       item[2].classList.remove('is-active');
       item[3].classList.remove('is-active');
       item[4].classList.remove('is-active');
     }
-    if (scroll > 565 && scroll < 1130) {
+    if (scroll > document.querySelector('#about').offsetTop && scroll < document.querySelector('#what-we-do').offsetTop) {
       item[1].classList.remove('is-active');
       item[2].classList.add('is-active');
       item[3].classList.remove('is-active');
       item[4].classList.remove('is-active');
     }
-    if (scroll > 1130 && scroll < 1695) {
+    if (scroll > document.querySelector('#what-we-do').offsetTop && scroll < document.querySelector('#contact').offsetTop) {
       item[1].classList.remove('is-active');
       item[2].classList.remove('is-active');
       item[3].classList.add('is-active');
       item[4].classList.remove('is-active');
     }
-    if (scroll > 1695) {
+    if (scroll > document.querySelector('#contact').offsetTop) {
       item[1].classList.remove('is-active');
       item[2].classList.remove('is-active');
       item[3].classList.remove('is-active');
