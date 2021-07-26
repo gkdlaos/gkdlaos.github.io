@@ -45,9 +45,9 @@ author-name: Unhedged
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: We are a quantitative trading company constantly seeking Alpha. Our mission is to identify Alpha based on quantitative research and scientific reasoning. All of our investment process is fully automated, from data feeding to trade execution. We believe that the best way to find alphas is to explore the untapped paths with top-notch developers and researchers.
+author-about: We are a quantitative trading company continually discovering alpha. Our mission is to identify alpha based on evidence-based quantitative research and scientific reasoning. All our investment processes are fully automated, from data feeding to trade execution. We believe that exploring untapped potential and innovative paths with top-notch developers and researchers are key to finding alphas.
 who-we-are:
-  research: We build systematic strategies by applying modern statistical techniques to sophisticated large datasets to discover investment opportunities in financial markets. The models, based on cutting-edge mathematical modeling and statistical methods are tested by our rigorous framework to identify their validity, robustness and orthogonality.
+  research: We build systematic strategies by applying modern statistical techniques to sophisticated large datasets that allow us to discover investment opportunities in financial markets. These models are based on cutting-edge mathematical modeling and statistical methods. We test all our models by using a rigorous framework to identify their validity, robustness, and orthogonality.
   database: Data plays a very fundamental part to ensure all the performances of quantitative trading, from the research to execution. Our obsession with data made us create a unique database system - which not only serves accurate data in prompt but gives a seamless environment for researchers to experiment and deploy.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
